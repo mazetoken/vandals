@@ -2,13 +2,15 @@
 
 ![Vandals](img/vandals200.png)
 
-VANDALS is digital arts appreciation token running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token and SEP20 - SmartBCH token). 70 million VANDALS is locked in a Vesting Wallet [contract](https://github.com/mazetoken/vandals/blob/main/contracts/VestingWallet.sol) since November 4, 2021. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release VANDALS tokens partially.
+VANDALS is a tribute token to digital arts running on Bitcoin Cash blockchain (as SLP - Simple Ledger Protocol token and SEP20 - SmartBCH token). 70 million VANDALS is locked in a Vesting Wallet [contract](https://github.com/mazetoken/vandals/blob/main/contracts/VestingWallet.sol) since November 4, 2021. Vesting (time-lock) duration period is 2 years. The Vesting Wallet allows to release VANDALS tokens partially.
 
 VANDALS like to travel from wallet to wallet. The token is a tradable asset, but there is no expectation od profit. Do your own research.
 
 _Stay away! Rude and Rough._
 
 Website: https://vandalstoken.onuniverse.com
+
+VANDALS is Maze Token Underworld: https://mazetoken.github.io/vandals/
 
 ----------------------------------------------------------------------------------------------
 
@@ -35,8 +37,6 @@ VANDALS [contract](https://https://github.com/mazetoken/vandals/blob/main/contra
 VANDALS [genesis transaction](https://www.smartscan.cash/transaction/0x32736e97ec136a10ee6549cca632519735755ce53f90203796f0f56d32d548bc)
 
 Vesting Wallet contract address: 0x19C1Cd671d4D6BB9f4300e74a126ba31bDe441Bb
-
-Vesting Wallet [contract](https://https://github.com/mazetoken/vandals/blob/main/contracts/VestingWallet.sol)
 
 Vesting Wallet Explorer [SmartScan](https://www.smartscan.cash/address/0x19C1Cd671d4D6BB9f4300e74a126ba31bDe441Bb)
 
